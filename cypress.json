@@ -1,0 +1,17 @@
+{
+  "projectId": "hozmh7",
+  "watchForFileChanges": true,
+  "fileServerFolder": "www",
+  "viewportWidth": 820,
+  "viewportHeight": 568,
+  "numTestsKeptInMemory": 5,
+  "trashAssetsBeforeRuns": true,
+  "video": true,
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 30000,
+  "chromeWebSecurity": false,
+  "env": {
+    "url": "https://rahulshettyacademy.com"
+  },
+  "reporter":"mochawesome"
+}
